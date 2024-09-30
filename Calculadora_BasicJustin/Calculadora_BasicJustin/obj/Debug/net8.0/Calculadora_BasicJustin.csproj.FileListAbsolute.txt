@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\bin\Debug\net8.0\Calculadora_BasicJustin.exe
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\bin\Debug\net8.0\Calculadora_BasicJustin.deps.json
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\bin\Debug\net8.0\Calculadora_BasicJustin.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\bin\Debug\net8.0\Calculadora_BasicJustin.dll
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\bin\Debug\net8.0\Calculadora_BasicJustin.pdb
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.dll
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\refint\Calculadora_BasicJustin.dll
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.pdb
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\Calculadora_BasicJustin.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicios c#\Calculadora_BasicJustin\Calculadora_BasicJustin\obj\Debug\net8.0\ref\Calculadora_BasicJustin.dll

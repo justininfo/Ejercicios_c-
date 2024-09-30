@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\bin\Debug\Aumento_Interfaz_de_sueldo.exe.config
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\bin\Debug\Aumento_Interfaz_de_sueldo.exe
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\bin\Debug\Aumento_Interfaz_de_sueldo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.Form1.resources
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.Properties.Resources.resources
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.exe
+C:\Users\PC\Desktop\Ejercicios c#\Aumento_Interfaz_de_sueldo\Aumento_Interfaz_de_sueldo\obj\Debug\Aumento_Interfaz_de_sueldo.pdb

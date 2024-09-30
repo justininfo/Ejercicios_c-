@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\bin\Debug\net8.0\importeArticulo.exe
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\bin\Debug\net8.0\importeArticulo.deps.json
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\bin\Debug\net8.0\importeArticulo.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\bin\Debug\net8.0\importeArticulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\bin\Debug\net8.0\importeArticulo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.sourcelink.json
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\refint\importeArticulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\importeArticulo.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicios c#\importeArticulo\importeArticulo\obj\Debug\net8.0\ref\importeArticulo.dll

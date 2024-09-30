@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\bin\Debug\net8.0\impuestos_de_articulo.exe
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\bin\Debug\net8.0\impuestos_de_articulo.deps.json
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\bin\Debug\net8.0\impuestos_de_articulo.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\bin\Debug\net8.0\impuestos_de_articulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\bin\Debug\net8.0\impuestos_de_articulo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.sourcelink.json
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\refint\impuestos_de_articulo.dll
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\impuestos_de_articulo.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicios c#\impuestos_de_articulo\impuestos_de_articulo\obj\Debug\net8.0\ref\impuestos_de_articulo.dll

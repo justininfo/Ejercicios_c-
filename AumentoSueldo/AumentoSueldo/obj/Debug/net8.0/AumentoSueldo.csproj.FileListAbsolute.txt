@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\bin\Debug\net8.0\AumentoSueldo.exe
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\bin\Debug\net8.0\AumentoSueldo.deps.json
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\bin\Debug\net8.0\AumentoSueldo.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\bin\Debug\net8.0\AumentoSueldo.dll
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\bin\Debug\net8.0\AumentoSueldo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.sourcelink.json
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.dll
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\refint\AumentoSueldo.dll
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.pdb
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\AumentoSueldo.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicios c#\AumentoSueldo\AumentoSueldo\obj\Debug\net8.0\ref\AumentoSueldo.dll

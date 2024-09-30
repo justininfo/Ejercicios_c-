@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Ejercicios c#\\importeArticulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B221F85-3CF2-453D-B35A-C13FC6E64162}|importeArticulo\\importeArticulo.csproj|c:\\users\\pc\\desktop\\ejercicios c#\\importearticulo\\importearticulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B221F85-3CF2-453D-B35A-C13FC6E64162}|importeArticulo\\importeArticulo.csproj|solutionrelative:importearticulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Ejercicios c#\\importeArticulo\\importeArticulo\\Program.cs",
+              "RelativeDocumentMoniker": "importeArticulo\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Ejercicios c#\\importeArticulo\\importeArticulo\\Program.cs",
+              "RelativeToolTip": "importeArticulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:14:51.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

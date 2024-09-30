@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\bin\Debug\net8.0\SueldoNetoCsharp.exe
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\bin\Debug\net8.0\SueldoNetoCsharp.deps.json
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\bin\Debug\net8.0\SueldoNetoCsharp.runtimeconfig.json
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\bin\Debug\net8.0\SueldoNetoCsharp.dll
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\bin\Debug\net8.0\SueldoNetoCsharp.pdb
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.sourcelink.json
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.dll
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\refint\SueldoNetoCsharp.dll
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.pdb
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\SueldoNetoCsharp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ejercicios c#\SueldoNetoCsharp\SueldoNetoCsharp\obj\Debug\net8.0\ref\SueldoNetoCsharp.dll
